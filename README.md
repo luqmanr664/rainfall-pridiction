@@ -156,7 +156,8 @@ Frimpong, Ahene. IEEE Access, 2022.
 
 ### Group 6 Implementation Team - Msc. CyberSecurity and Digital Forensics - KNUST
 * Lukman Mbalam Abdul-Rahaman (PG3988225)
-* [Insert Member Name 2]
-* [Insert Member Name 3]
-* [Insert Member Name 4]
-* [Insert Member Name 5]
+* Wise selorm Adzivor- (PG3990225)
+* Louis Atta Nyarko - (PG4007525)
+* Tsinasi Franklin Delanyo - (PG4013325)
+* Kwasi Ameyaw - (PG3992725)
+* Emmanuel Brown Agbola - (PG3990825)
